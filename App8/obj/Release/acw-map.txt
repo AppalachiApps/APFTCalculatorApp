@@ -1,0 +1,4 @@
+App8.MainActivity, App8;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
+App8.MainActivity, App8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
+App8.MainActivity;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
+app8.MainActivity;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
